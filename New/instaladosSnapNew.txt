@@ -1,0 +1,4 @@
+Nombre  Versión   Rev    Seguimiento    Editor      Notas
+core18  20201210  1944   latest/stable  canonical*  base
+ncspot  0.4.0     79     latest/stable  popey       -
+snapd   2.48.2    10707  latest/stable  canonical*  snapd
